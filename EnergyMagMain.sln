@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "energymagmain.client", "energymagmain.client\energymagmain.client.esproj", "{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyMagMain.Server", "EnergyMagMain.Server\EnergyMagMain.Server.csproj", "{D66CAAEA-F1A8-4A29-AAEE-3D0007E0AC72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511D5CA0-3E7D-C5FB-947E-D7B9E07B58EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D66CAAEA-F1A8-4A29-AAEE-3D0007E0AC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66CAAEA-F1A8-4A29-AAEE-3D0007E0AC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66CAAEA-F1A8-4A29-AAEE-3D0007E0AC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66CAAEA-F1A8-4A29-AAEE-3D0007E0AC72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CDD822-BDE0-4C4F-8BEB-3D551218D55C}
+	EndGlobalSection
+EndGlobal

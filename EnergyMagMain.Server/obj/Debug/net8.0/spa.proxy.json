@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50749",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\EnergyMagMain\\EnergyMagMain.Server\\..\\energymagmain.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
