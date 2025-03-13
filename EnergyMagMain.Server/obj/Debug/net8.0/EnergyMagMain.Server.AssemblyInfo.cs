@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyMagMain.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f728e24b397c346167a1f952a46552768a3d969")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e062ab8993549668081daf171e805c38e070743e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyMagMain.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyMagMain.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
